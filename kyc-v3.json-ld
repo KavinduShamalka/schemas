@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
-        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemas/main/kyc-v3.json-ld#KYCAgeCredential",
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemasV2/main/kyc-v3.json-ld#KYCAgeCredential",
         "@context": {
           "@version": 2.3,
           "@protected": true,
@@ -25,7 +25,7 @@
         }
       },
       "KYCCountryOfResidenceCredential": {
-        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemas/main/kyc-v3.json-ld#KYCCountryOfResidenceCredential",
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemasV2/main/kyc-v3.json-ld#KYCCountryOfResidenceCredential",
         "@context": {
           "@version": 2.3,
           "@protected": true,
