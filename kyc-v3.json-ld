@@ -1,14 +1,14 @@
 {
   "@context": [
     {
-      "@version": 2.2,
+      "@version": 2.3,
       "@protected": true,
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
-        "@id": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/kyc-v3.json-ld#KYCAgeCredential",
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemas/main/kyc-v3.json-ld#KYCAgeCredential",
         "@context": {
-          "@version": 2.2,
+          "@version": 2.3,
           "@protected": true,
           "id": "@id",
           "type": "@type",
@@ -25,9 +25,9 @@
         }
       },
       "KYCCountryOfResidenceCredential": {
-        "@id": "https://raw.githubusercontent.com/iden3/claim-schema-vocab/main/schemas/json-ld/kyc-v3.json-ld#KYCCountryOfResidenceCredential",
+        "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemas/main/kyc-v3.json-ld#KYCCountryOfResidenceCredential",
         "@context": {
-          "@version": 2.2,
+          "@version": 2.3,
           "@protected": true,
           "id": "@id",
           "type": "@type",
