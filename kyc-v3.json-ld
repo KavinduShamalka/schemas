@@ -1,14 +1,14 @@
 {
   "@context": [
     {
-      "@version": 2.3,
+      "@version": 1.1,
       "@protected": true,
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
         "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemasV3/main/kyc-v3.json-ld#KYCAgeCredential",
         "@context": {
-          "@version": 2.3,
+          "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
@@ -27,7 +27,7 @@
       "KYCCountryOfResidenceCredential": {
         "@id": "https://raw.githubusercontent.com/KavinduShamalka/schemasV3/main/kyc-v3.json-ld#KYCCountryOfResidenceCredential",
         "@context": {
-          "@version": 2.3,
+          "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
